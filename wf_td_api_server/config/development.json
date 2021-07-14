@@ -1,0 +1,8 @@
+{
+    "db": {
+        "user": "wftd",
+        "host": "localhost",
+        "port": "27017",
+        "name": "wftd"
+    }
+}
