@@ -142,7 +142,7 @@ export default {
                     {min: 3, max: 30, message: '商品名称不小于3个字符', trigger: 'blur'}
                 ]
             },
-            // 图片上传组件的headers请求头对象
+            // 图片上传组件的 headers 请求头对象
             headerObj: {
                 Authorization: window.sessionStorage.getItem('token')
             },
